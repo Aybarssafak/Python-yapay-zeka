@@ -1,0 +1,420 @@
+{
+  "sorular": [
+    {
+      "soru": "Merhaba, nasılsın?",
+      "cevap": "Merhaba! Ben bir yapay zeka botuyum, seninle konuşmak için buradayım."
+    },
+    {
+      "soru": "Hava bugün nasıl?",
+      "cevap": "Hava durumunu bilmiyorum, ama dışarı bakarak kontrol edebilirsin."
+    },
+    {
+      "soru": "Python programlama dili nedir?",
+      "cevap": "Python, yüksek seviyeli, genel amaçlı bir programlama dilidir."
+    },
+    {
+      "soru": "Yapay zeka nedir?",
+      "cevap": "Yapay zeka, bilgisayar sistemlerinin insan benzeri görevleri gerçekleştirme kabiliyetidir."
+    },
+    {
+      "soru": "Veritabanı nedir?",
+      "cevap": "Veritabanı, organize edilmiş veri koleksiyonlarının saklandığı ve yönetildiği sistemdir."
+    },
+    {
+      "soru": "Python dilinde liste nasıl tanımlanır?",
+      "cevap": "Python'da liste köşeli parantezler içinde tanımlanır: örneğin, my_list = [1, 2, 3]."
+    },
+    {
+      "soru": "Python'da döngüler nasıl kullanılır?",
+      "cevap": "Python'da döngüler 'for' ve 'while' yapıları ile kullanılır. Örneğin: for i in range(5): print(i)"
+    },
+    {
+      "soru": "Python ile dosya okuma nasıl yapılır?",
+      "cevap": "Python'da dosya okuma open fonksiyonu ile yapılır: with open('dosya.txt', 'r') as file: content = file.read()"
+    },
+    {
+      "soru": "JSON nedir?",
+      "cevap": "JSON, JavaScript Object Notation, veri alışverişi için hafif bir formattır."
+    },
+    {
+      "soru": "HTTP nedir?",
+      "cevap": "HTTP, HyperText Transfer Protocol, web üzerinde veri iletişimi için kullanılan protokoldür."
+    },
+    {
+      "soru": "HTML nedir?",
+      "cevap": "HTML, HyperText Markup Language, web sayfalarını oluşturmak için kullanılan standart işaretleme dilidir."
+    },
+    {
+      "soru": "CSS nedir?",
+      "cevap": "CSS, Cascading Style Sheets, web sayfalarının stil ve düzenini tanımlamak için kullanılan bir dildir."
+    },
+    {
+      "soru": "JavaScript nedir?",
+      "cevap": "JavaScript, web sayfalarına interaktif özellikler eklemek için kullanılan bir programlama dilidir."
+    },
+    {
+      "soru": "API nedir?",
+      "cevap": "API, Application Programming Interface, yazılım uygulamalarının birbirleriyle iletişim kurmasını sağlayan bir ara yüzdür."
+    },
+    {
+      "soru": "RESTful API nedir?",
+      "cevap": "RESTful API, REST mimarisine uygun olarak tasarlanmış bir API'dir ve web servisleri için kullanılır."
+    },
+    {
+      "soru": "Machine learning nedir?",
+      "cevap": "Machine learning, bilgisayarların verilerden öğrenmesini ve tahminler yapmasını sağlayan bir yapay zeka dalıdır."
+    },
+    {
+      "soru": "Deep learning nedir?",
+      "cevap": "Deep learning, çok katmanlı yapay sinir ağlarını kullanan bir machine learning alt dalıdır."
+    },
+    {
+      "soru": "Neural network nedir?",
+      "cevap": "Neural network, insan beyninden esinlenerek tasarlanmış ve bilgi işleme için kullanılan bir yapay zeka modelidir."
+    },
+    {
+      "soru": "Python'da fonksiyon nasıl tanımlanır?",
+      "cevap": "Python'da fonksiyon 'def' anahtar kelimesi ile tanımlanır. Örneğin: def my_function():"
+    },
+    {
+      "soru": "Python'da değişken nasıl tanımlanır?",
+      "cevap": "Python'da değişkenler doğrudan atanır. Örneğin: x = 10"
+    },
+    {
+      "soru": "Django nedir?",
+      "cevap": "Django, Python ile yazılmış yüksek seviyeli bir web framework'üdür."
+    },
+    {
+      "soru": "Flask nedir?",
+      "cevap": "Flask, Python ile yazılmış mikro web framework'üdür."
+    },
+    {
+      "soru": "SQL nedir?",
+      "cevap": "SQL, Structured Query Language, veritabanlarını yönetmek için kullanılan bir dildir."
+    },
+    {
+      "soru": "NoSQL nedir?",
+      "cevap": "NoSQL, ilişkisel olmayan veritabanları için kullanılan bir terimdir."
+    },
+    {
+      "soru": "Git nedir?",
+      "cevap": "Git, versiyon kontrol sistemi olup, yazılım geliştirme sürecinde kodun takibi için kullanılır."
+    },
+    {
+      "soru": "GitHub nedir?",
+      "cevap": "GitHub, Git versiyon kontrol sistemini kullanarak projelerin barındırılmasını sağlayan bir platformdur."
+    },
+    {
+      "soru": "DevOps nedir?",
+      "cevap": "DevOps, yazılım geliştirme (Development) ve operasyon (Operations) süreçlerini birleştiren bir yaklaşımdır."
+    },
+    {
+      "soru": "Docker nedir?",
+      "cevap": "Docker, uygulamaların konteynerler içinde çalıştırılmasını sağlayan bir platformdur."
+    },
+    {
+      "soru": "Kubernetes nedir?",
+      "cevap": "Kubernetes, konteynerleştirilmiş uygulamaların yönetimi için açık kaynaklı bir platformdur."
+    },
+    {
+      "soru": "Cloud computing nedir?",
+      "cevap": "Cloud computing, internet üzerinden bilgi işlem hizmetleri sunma modelidir."
+    },
+    {
+      "soru": "Big data nedir?",
+      "cevap": "Big data, çok büyük ve karmaşık veri setlerini ifade eden bir terimdir."
+    },
+    {
+      "soru": "Data science nedir?",
+      "cevap": "Data science, veriden bilgi ve içgörü elde etmek için kullanılan disiplinler arası bir alandır."
+    },
+    {
+      "soru": "Python'da sözlük nasıl tanımlanır?",
+      "cevap": "Python'da sözlük süslü parantezler içinde anahtar-değer çiftleri ile tanımlanır: my_dict = {'key': 'value'}"
+    },
+    {
+      "soru": "Python'da küme nasıl tanımlanır?",
+      "cevap": "Python'da küme süslü parantezler içinde tanımlanır: my_set = {1, 2, 3}"
+    },
+    {
+      "soru": "Numpy nedir?",
+      "cevap": "Numpy, Python'da bilimsel hesaplamalar için kullanılan bir kütüphanedir."
+    },
+    {
+      "soru": "Pandas nedir?",
+      "cevap": "Pandas, Python'da veri analizi ve veri işleme için kullanılan bir kütüphanedir."
+    },
+    {
+      "soru": "Matplotlib nedir?",
+      "cevap": "Matplotlib, Python'da grafikler ve görselleştirmeler oluşturmak için kullanılan bir kütüphanedir."
+    },
+    {
+      "soru": "Scikit-learn nedir?",
+      "cevap": "Scikit-learn, Python'da makine öğrenimi için kullanılan bir kütüphanedir."
+    },
+    {
+      "soru": "TensorFlow nedir?",
+      "cevap": "TensorFlow, Google tarafından geliştirilen açık kaynaklı bir makine öğrenimi kütüphanesidir."
+    },
+    {
+      "soru": "Keras nedir?",
+      "cevap": "Keras, derin öğrenme modelleri oluşturmak için kullanılan yüksek seviyeli bir neural network API'sidir."
+    },
+    {
+      "soru": "Python'da modül nedir?",
+      "cevap": "Python'da modül, bir Python dosyası olup, içinde fonksiyonlar, sınıflar ve değişkenler barındırır."
+    },
+    {
+      "soru": "Python'da sınıf nasıl tanımlanır?",
+      "cevap": "Python'da sınıf 'class' anahtar kelimesi ile tanımlanır. Örneğin: class MyClass:"
+    },
+    {
+      "soru": "Python'da obje nasıl oluşturulur?",
+      "cevap": "Python'da obje, sınıfın bir örneği olarak oluşturulur: örneğin, my_obj = MyClass()"
+    },
+    {
+      "soru": "Lambda fonksiyonu nedir?",
+      "cevap": "Lambda fonksiyonu, küçük anonim fonksiyonlar oluşturmak için kullanılan bir Python özelliğidir."
+    },
+    {
+      "soru": "Dünya üzerinde kaç tane kıta vardır?",
+      "cevap": "Dünya üzerinde 7 kıta bulunmaktadır."
+    },
+    {
+      "soru": "Türkiye'nin başkenti neresidir?",
+      "cevap": "Türkiye'nin başkenti Ankara'dır."
+    },
+    {
+      "soru": "Fransa'nın başkenti neresidir?",
+      "cevap": "Fransa'nın başkenti Paris'tir."
+    },
+    {
+      "soru": "İngiltere'nin başkenti neresidir?",
+      "cevap": "İngiltere'nin başkenti Londra'dır."
+    },
+    {
+      "soru": "Dünyanın en uzun nehri hangisidir?",
+      "cevap": "Dünyanın en uzun nehri Nil Nehri'dir."
+    },
+    {
+      "soru": "Dünyanın en yüksek dağı hangisidir?",
+      "cevap": "Dünyanın en yüksek dağı Everest Dağı'dır."
+    },
+    {
+      "soru": "İlk insanın ay yüzeyine inişi hangi yılda gerçekleşmiştir?",
+      "cevap": "İlk insanın ay yüzeyine inişi 1969 yılında gerçekleşmiştir."
+    },
+    {
+      "soru": "Mona Lisa tablosunun ressamı kimdir?",
+      "cevap": "Mona Lisa tablosunun ressamı Leonardo da Vinci'dir."
+    },
+    {
+      "soru": "Çılgın Hırsız filmindeki karakterin adı nedir?",
+      "cevap": "Çılgın Hırsız filmindeki karakterin adı Gru'dur."
+    },
+    {
+      "soru": "Harry Potter serisinin yazarı kimdir?",
+      "cevap": "Harry Potter serisinin yazarı J.K. Rowling'dir."
+    },
+    {
+      "soru": "Mona Lisa tablosunun bulunduğu müze hangisidir?",
+      "cevap": "Mona Lisa tablosu, Fransa'nın Louvre Müzesi'nde bulunmaktadır."
+    },
+    {
+      "soru": "Dünyanın en büyük okyanusu hangisidir?",
+      "cevap": "Dünyanın en büyük okyanusu Pasifik Okyanusu'dur."
+    },
+    {
+      "soru": "Romeo ve Juliet adlı eserin yazarı kimdir?",
+      "cevap": "Romeo ve Juliet adlı eserin yazarı William Shakespeare'dir."
+    },
+    {
+      "soru": "Türkiye'nin en yüksek dağı hangisidir?",
+      "cevap": "Türkiye'nin en yüksek dağı Ağrı Dağı'dır."
+    },
+    {
+      "soru": "Dünyanın en büyük çölesi hangisidir?",
+      "cevap": "Dünyanın en büyük çölü Sahra Çölü'dür."
+    },
+    {
+      "soru": "Mona Lisa tablosunun orijinal adı nedir?",
+      "cevap": "Mona Lisa tablosunun orijinal adı La Gioconda'dır."
+    },
+    {
+      "soru": "Hangi gezegen Güneş Sistemi'ndeki en büyük gezegendir?",
+      "cevap": "Jüpiter, Güneş Sistemi'ndeki en büyük gezegendir."
+    },
+    {
+      "soru": "Türkiye'nin en kalabalık şehri hangisidir?",
+      "cevap": "Türkiye'nin en kalabalık şehri İstanbul'dur."
+    },
+    {
+      "soru": "Dünya üzerinde kaç tane resmi dil bulunmaktadır?",
+      "cevap": "Dünya üzerinde yaklaşık olarak 6.000 kadar dil bulunmaktadır."
+    },
+    {
+      "soru": "Mona Lisa tablosunun hangi döneme ait olduğu bilinmektedir?",
+      "cevap": "Mona Lisa tablosu, Rönesans dönemine aittir."
+    },
+    {
+      "soru": "Işığın en hızlı yayılabileceği ortam nedir?",
+      "cevap": "Işığın en hızlı yayılabileceği ortam vakumdur."
+    },
+    {
+      "soru": "Güneş sistemimizin en büyük gezegeni hangisidir?",
+      "cevap": "Güneş sistemimizin en büyük gezegeni Jüpiter'dir."
+    },
+    {
+      "soru": "DNA'nın çift sarmal yapısını kim keşfetti?",
+      "cevap": "DNA'nın çift sarmal yapısını James Watson ve Francis Crick keşfetti."
+    },
+    {
+      "soru": "Einstein'ın ünlü formülü nedir?",
+      "cevap": "Einstein'ın ünlü formülü E=mc^2'dir."
+    },
+    {
+      "soru": "İlk başarılı organ nakli hangi organ üzerinde yapılmıştır?",
+      "cevap": "İlk başarılı organ nakli böbrek üzerinde yapılmıştır."
+    },
+    {
+      "soru": "Evrenin genişlediğini keşfeden bilim insanı kimdir?",
+      "cevap": "Evrenin genişlediğini keşfeden bilim insanı Edwin Hubble'dır."
+    },
+    {
+      "soru": "Hücre teorisini kim geliştirdi?",
+      "cevap": "Hücre teorisini Matthias Schleiden ve Theodor Schwann geliştirdi."
+    },
+    {
+      "soru": "Dünyanın çekirdeği hangi elementlerden oluşur?",
+      "cevap": "Dünyanın çekirdeği büyük oranda demir ve nikel elementlerinden oluşur."
+    },
+    {
+      "soru": "Hangi element periyodik tabloda 'O' sembolü ile gösterilir?",
+      "cevap": "Oksijen elementi periyodik tabloda 'O' sembolü ile gösterilir."
+    },
+    {
+      "soru": "Fosil yakıtlar nasıl oluşur?",
+      "cevap": "Fosil yakıtlar milyonlarca yıl önce ölmüş bitki ve hayvanların kalıntılarının basınç ve ısı altında dönüşmesi ile oluşur."
+    },
+    {
+      "soru": "İlk insanlı uzay uçuşunu yapan astronot kimdir?",
+      "cevap": "İlk insanlı uzay uçuşunu yapan astronot Yuri Gagarin'dir."
+    },
+    {
+      "soru": "Maddenin dört temel hali nelerdir?",
+      "cevap": "Maddenin dört temel hali katı, sıvı, gaz ve plazmadır."
+    },
+    {
+      "soru": "Fotosentez nedir?",
+      "cevap": "Fotosentez, bitkilerin güneş ışığını kullanarak su ve karbondioksitten glikoz ve oksijen üretme sürecidir."
+    },
+    {
+      "soru": "Suyun donma noktası kaç derecedir?",
+      "cevap": "Suyun donma noktası 0 santigrat derecedir."
+    },
+    {
+      "soru": "Dünyanın en derin noktası neresidir?",
+      "cevap": "Dünyanın en derin noktası Mariana Çukuru'dur."
+    },
+    {
+      "soru": "Atom numarası 1 olan element nedir?",
+      "cevap": "Atom numarası 1 olan element hidrojendir."
+    },
+    {
+      "soru": "Newtons'un hareket yasalarını kim formüle etti?",
+      "cevap": "Newton'un hareket yasalarını Isaac Newton formüle etti."
+    },
+    {
+      "soru": "Hangi gezegen yüzeyinde en fazla volkan bulundurur?",
+      "cevap": "Venüs gezegeni yüzeyinde en fazla volkan bulundurur."
+    },
+    {
+      "soru": "Kuantum fiziği hangi alanda çalışır?",
+      "cevap": "Kuantum fiziği atom ve atomaltı parçacıkların davranışlarını inceler."
+    },
+    {
+      "soru": "Ses dalgaları hangi tür dalgadır?",
+      "cevap": "Ses dalgaları mekanik dalgalardır."
+    },
+    {
+      "soru": "Hangi gezegenin halkaları vardır?",
+      "cevap": "Satürn gezegeninin halkaları vardır."
+    },
+    {
+      "soru": "Genetik biliminin kurucusu kimdir?",
+      "cevap": "Genetik biliminin kurucusu Gregor Mendel'dir."
+    },
+    {
+      "soru": "Hangi elementin sembolü 'Au'dur?",
+      "cevap": "Altın elementinin sembolü 'Au'dur."
+    },
+    {
+      "soru": "Karbonun allotroplarından biri nedir?",
+      "cevap": "Karbonun allotroplarından biri elmasdır."
+    },
+    {
+      "soru": "Atom numarası 6 olan element nedir?",
+      "cevap": "Atom numarası 6 olan element karbondur."
+    },
+    {
+      "soru": "Suyun kaynama noktası kaç derecedir?",
+      "cevap": "Suyun kaynama noktası 100 santigrat derecedir."
+    },
+    {
+      "soru": "Hangi gaz atmosferin büyük bir kısmını oluşturur?",
+      "cevap": "Azot gazı atmosferin büyük bir kısmını oluşturur."
+    },
+    {
+      "soru": "Küçük kan dolaşımını kim keşfetti?",
+      "cevap": "Küçük kan dolaşımını İbn-i Nefis keşfetti."
+    },
+    {
+      "soru": "Hangi madde suya atıldığında patlar?",
+      "cevap": "Sodyum maddesi suya atıldığında patlar."
+    },
+    {
+      "soru": "Hangi gezegen güneşe en yakındır?",
+      "cevap": "Merkür gezegeni güneşe en yakındır."
+    },
+    {
+      "soru": "Hangi bilim insanı radyoaktiviteyi keşfetti?",
+      "cevap": "Marie Curie radyoaktiviteyi keşfetti."
+    },
+    {
+      "soru": "En küçük kemik hangi organda bulunur?",
+      "cevap": "En küçük kemik kulakta bulunur."
+    },
+    {
+      "soru": "Plankton nedir?",
+      "cevap": "Plankton, suda yaşayan mikroskobik organizmalardır."
+    },
+    {
+      "soru": "Hangi gezegenin bir günü, bir yılından daha uzundur?",
+      "cevap": "Venüs gezegeninin bir günü, bir yılından daha uzundur."
+    },
+    {
+      "soru": "Atmosferde en bol bulunan element nedir?",
+      "cevap": "Atmosferde en bol bulunan element azottur."
+    },
+    {
+      "soru": "İnsan vücudundaki en büyük organ nedir?",
+      "cevap": "İnsan vücudundaki en büyük organ deridir."
+    },
+    {
+      "soru": "Yer çekimi nedir?",
+      "cevap": "Yer çekimi, cisimlerin dünya merkezine doğru çekilmesine neden olan kuvvettir."
+    },
+    {
+      "soru": "Hangi bitki fotosentez yapamaz?",
+      "cevap": "Mantar bitkisi fotosentez yapamaz."
+    },
+    {
+      "soru": "Bir mol kaç tane atom veya molekül içerir?",
+      "cevap": "Bir mol, 6.022 x 10^23 tane atom veya molekül içerir."
+    },
+    {
+      "soru": "Tuzun kimyasal formülü nedir?",
+      "cevap": "Tuzun kimyasal formülü NaCl'dir."
+    }
+  ]
+}
